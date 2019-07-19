@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/ipapkgtool.png" width="100%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/ipapkgtool.png" width="80%">
 </div>
 
 [如果你觉得能帮助到你，请给一颗小星星。谢谢！(If you think it can help you, please give it a star. Thanks!)](https://github.com/dgynfi/IPAPkgTool)
@@ -26,14 +26,14 @@
 ## 预览
 
 <div align=left>
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/login_page.png" width="40%">
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/config_args.png" width="40%">
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/config_args_illegal.png" width="40%">
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/package_page.png" width="40%">
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/single_packaging.png" width="40%">
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/multi-packaging.png" width="40%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/login_page.png" width="50%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/config_args.png" width="50%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/config_args_illegal.png" width="50%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/package_page.png" width="50%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/single_packaging.png" width="50%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/multi-packaging.png" width="50%">
 </div>
 
 ## Release
 
-- [IPAPkgTool Release](Release/IPAPkgTool)
+- [IPAPkgTool Link](https://github.com/dgynfi/IPAPkgTool/tree/master/Release/IPAPkgTool.appl)
