@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/ipapkgtool.png" width="80%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/ipapkgtool.png" width="100%">
 </div>
 
 [如果你觉得能帮助到你，请给一颗小星星。谢谢！(If you think it can help you, please give it a star. Thanks!)](https://github.com/dgynfi/IPAPkgTool)
@@ -13,27 +13,27 @@
 
 ## IPAPkgTool
 
-一款自动化打包ipa的MacOS应用。
+一款自动化打包ipa的MacOS应用。(A MacOS application that packs ipa automatically.)
 
 ## 配置描述
 
 如果条件允许，参数最好配置在远程服务器上。通过网络请求获取打包参数，一键打包即可。如下图讲的是本地配置参数。
 
 <div align=center>
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/cfg_desc.png" width="60%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/cfg_desc.png" width="80%">
 </div>
 
 ## 预览
 
-<div align=left>
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/login_page.png" width="50%">
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/config_args.png" width="50%">
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/config_args_illegal.png" width="50%">
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/package_page.png" width="50%">
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/single_packaging.png" width="50%">
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/multi-packaging.png" width="50%">
+<div align=center>
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/login_page.png" width="80%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/config_args.png" width="80%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/config_args_illegal.png" width="80%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/package_page.png" width="80%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/single_packaging.png" width="80%">
+<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/multi-packaging.png" width="80%">
 </div>
 
 ## Release
 
-- [IPAPkgTool Link](https://github.com/dgynfi/IPAPkgTool/tree/master/Release/IPAPkgTool.appl)
+- [IPAPkgTool Link](https://github.com/dgynfi/IPAPkgTool/tree/master/Release/IPAPkgTool.app)
