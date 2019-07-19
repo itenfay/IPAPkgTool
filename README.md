@@ -34,6 +34,8 @@
 <img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/multi-packaging.png" width="80%">
 </div>
 
-## Release
+## Project & Release
 
-- [IPAPkgTool Link](https://github.com/dgynfi/IPAPkgTool/tree/master/Release/IPAPkgTool.app)
+- [Project Link](https://github.com/dgynfi/IPAPkgTool/tree/master/IPAPkgTool)
+- [App Link](https://github.com/dgynfi/IPAPkgTool/tree/master/Release/IPAPkgTool.app)
+
