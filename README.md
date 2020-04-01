@@ -20,10 +20,10 @@
 
 如果条件允许，参数最好配置在远程服务器上。通过网络请求获取打包参数，一键打包即可。
 
-如下图是本地配置参数：
+- 如下图是本地配置参数：
 
-<div align=center>
-&emsp; <img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/cfg_desc.png" width="70%" />
+<div align=left>
+&emsp; <img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/cfg_desc.png" width="60%" />
 </div>
 
 ## Preview
