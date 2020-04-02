@@ -1,7 +1,3 @@
-<div align=center>
-<img src="https://github.com/dgynfi/IPAPkgTool/raw/master/Images/ipapkgtool.png" width="90%" /> <br />
-</div> 
-
 [如果此项目能帮助到你，就请你给一颗星。谢谢！(If this project can help you, please give it a star. Thanks!)](https://github.com/dgynfi/IPAPkgTool)
 
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](LICENSE)&nbsp;
