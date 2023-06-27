@@ -10,7 +10,7 @@
 
 ## IPAPkgTool
 
-一款自动化打包 ipa 的 mac 应用。(A mac application that packs ipa automatically.)
+一款自动化打包 ipa 的 macOS 应用。
 
 ## Configuration Description
 
